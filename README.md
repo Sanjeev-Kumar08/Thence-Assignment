@@ -8,7 +8,7 @@ This project is a web application built using React. With taken care of implemen
  - yup 
    
 ## INSTALLATION 
- - git clone "paste github url"
+ - git clone https://github.com/Sanjeev-Kumar08/Thence-Assignment
  - cd project-directory
  - npm install
 
