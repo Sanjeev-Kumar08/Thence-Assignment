@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Thence-Assignment/static/css/main.1cbc0e89.css",
+    "main.js": "/Thence-Assignment/static/js/main.2ce98937.js",
+    "static/media/girlImg.svg": "/Thence-Assignment/static/media/girlImg.73493784851fc7dbd41706c0fa737953.svg",
+    "static/media/spikes.svg": "/Thence-Assignment/static/media/spikes.fa8982df8134659b84e75bfd1eb2c313.svg",
+    "static/media/logo.svg": "/Thence-Assignment/static/media/logo.b33d0832572924c15a430247a77f7b42.svg",
+    "static/media/rocket.svg": "/Thence-Assignment/static/media/rocket.fc96729568c25d317e6ffed5032db090.svg",
+    "static/media/UnionFaqImg.svg": "/Thence-Assignment/static/media/UnionFaqImg.dfeee04f0c567ccb628943e54d0e0b66.svg",
+    "index.html": "/Thence-Assignment/index.html",
+    "static/media/successTick.svg": "/Thence-Assignment/static/media/successTick.ef513ed53e7aafb20dcd29b5d738af1b.svg",
+    "static/media/Close.svg": "/Thence-Assignment/static/media/Close.edef93932cb6fa2912adade6b2e2c297.svg",
+    "static/media/rightarrow.svg": "/Thence-Assignment/static/media/rightarrow.19d7b004c3bc93af4fc156e3eeec80a0.svg",
+    "main.1cbc0e89.css.map": "/Thence-Assignment/static/css/main.1cbc0e89.css.map",
+    "main.2ce98937.js.map": "/Thence-Assignment/static/js/main.2ce98937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cbc0e89.css",
+    "static/js/main.2ce98937.js"
+  ]
+}
