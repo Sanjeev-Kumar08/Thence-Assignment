@@ -1,0 +1,120 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Dancing+Script:wght@400..700&display=swap');
+ 
+ .faqMainContainer {
+  margin: 10% 30px 30px 30px;
+  height: 750px;
+  background-color: #E8EEE7;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+
+}
+.faqtextContainer{
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.faqLeftSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.faqLeftSection span{
+font-size: 30px;
+font-weight: 400;
+margin: 0;
+margin-left: 5%;
+letter-spacing: -0.02em;
+text-align: left;
+/* font-family: "Caveat", cursive;
+font-style: normal; */
+font-family: "Dancing Script", cursive;
+font-optical-sizing: auto;
+color: #9E9D9D;
+
+}
+.faqLeftSection h2{
+  margin: 0;
+  line-height: 66px;
+  margin-bottom: 35px;
+font-size: 60px;
+margin-top: 20px;
+font-weight: 600;
+line-height: 66px;
+letter-spacing: -0.01em;
+text-align: left;
+
+}
+
+.faqLeftSection img {
+  width: 491px;
+}
+
+.faqQuestionSection {
+  width: 40%;
+  margin-right: 9%;
+  margin-left: 18%;
+}
+
+.faqQuestionmaincontainer {
+  align-items: flex-start;
+  min-height: 52px;
+  border-bottom: 1px solid #D7D7D7;
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+  flex-direction: column;
+}
+
+.questionContainer {
+margin-top: 24px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 23px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  cursor: pointer;
+  margin-bottom: 22px;
+}
+.questionspan{
+  max-width: 90%;
+  
+}
+
+.questionContainer {
+  cursor: pointer;
+}
+
+.plus::after {
+  content: '+';
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.minus::after {
+  content: '-';
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.faqanswer {
+  font-size: 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.show {
+  margin-bottom: 24px;
+  text-align: left;
+  max-height: 100px;
+}
+
+.hide {
+  max-height: 0;
+}

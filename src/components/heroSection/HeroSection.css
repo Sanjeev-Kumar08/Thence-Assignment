@@ -1,0 +1,218 @@
+
+.herosectionMainContainer{display: flex;
+/* align-items: center; */
+justify-content: center;
+flex-direction: column;
+}
+.herosectionHeadingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.herosectionHeadingContainer {
+    margin-top: 80px;
+}
+
+.herosectionBodyContainer {
+    /* max-width: 1200px; */
+    margin-top: 80px;
+    margin-left: 12%;
+}
+
+
+
+.imgContainer {
+    display: flex;
+    /* justify-content: space-around; */
+    position: relative;
+}
+
+/* .girlimgContainer {
+    display: flex;
+    position: relative;
+
+} */
+
+.girlimgContainer img {
+    width: 546.98px;
+    height:100%;
+    border-radius: 60px;
+}
+
+.overlapContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    left: 26%;
+    top: 68%;
+    max-width: 290.49px;
+    height: 240px;
+    border-radius: 30px;
+    background-color: red;
+    background-color: #002E18;
+    color: white;
+}
+
+.dollarsign {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.05px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.overlapTextContainer {
+    text-align: left;
+    margin-left: 10%;
+}
+
+.overlapContainer p {
+    line-height: 23.4px;
+    max-width: 80%;
+    text-align: left;
+    margin-bottom: 0;
+    margin-left: 10%;
+}
+
+.millionText {
+    font-size: 22.81px;
+    font-weight: 500;
+    line-height: 31.94px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #A6A3A0;
+    margin-left: 4px;
+
+}
+
+.overlapContainerleft {
+    display: flex;
+    justify-content: center;
+    right: 90%;
+    flex-direction: column;
+    position: absolute;
+    top: 30%;
+    width: 260px;
+    height: 200px;
+    border-radius: 30px;
+    background-color: red;
+    background-color: #FFFFFF;
+    color: white;
+
+}
+
+.overlapContainerleft p {
+    color: #828282;
+    text-align: justify;
+    max-width: 80%;
+    margin: 0;
+
+}
+
+.percentsign {
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 76.8px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #1C1C1C;
+
+}
+
+.rightMainContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-left: 15%;
+    text-align: left;
+}
+
+.rightTextContainer p {
+    font-size: 45px;
+    font-weight: 600;
+    width: 100%;
+
+}
+.rightMainContainerbutton {
+    width: 245px;
+    height: 88px;
+    border-radius: 100px;
+    background-color: #1C1C1C;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;padding-left: 10%;
+}
+.rightMainContainerbutton:hover {
+    background-color: #4E4E4E;
+}
+
+.btnContainer img {
+    position: absolute;
+    right: 14%;
+    top: 37%;
+}
+.daysSpan{
+    position: absolute;
+    top: 80%;
+    background-color: #FFFFFF;
+    width: 245px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+   border-radius: 100px; 
+   right: 85%;
+}
+.textSpan{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7%;
+}
+.rocketcontainer{
+    height: 52px;
+    width: 52px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 7%;
+}
+.rocketcontainer img{
+    height: 40px;
+    width: 40px;
+}
+.days{
+font-size: 24px;
+font-weight: 700;
+line-height: 32.78px;
+text-align: left;
+
+}
+.staff{
+font-size: 16px;
+font-weight: 500;
+line-height: 20.8px;
+text-align: left;
+
+}
+.contentcontainer{
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.contentImgContainer img{
+   
+    width: 93px;
+    height: 93px;
+    left: -23px;
+    position: absolute;
+    top: -22px;
+}

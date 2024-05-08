@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Dancing+Script:wght@400..700&display=swap');
+
+.SuccesssubContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.successTextContainer img{
+margin-bottom: 35px;
+}
+.successText{
+font-size: 36px;
+font-weight: 400;
+line-height: 39.6px;
+letter-spacing: -0.02em;
+text-align: left;
+    color: #2DA950;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+}
+.successTextContainer{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+.successTextContainer h2{
+font-size: 56px;
+font-weight: 600;
+line-height: 67.2px;
+letter-spacing: -0.02em;
+text-align: center;
+margin-top: 5px;
+margin-bottom: 30px;
+
+}
+.successPara{
+font-size: 25px;
+font-weight: 400;
+text-align: center;
+color: #727272;
+max-width: 48%;
+margin: 0;
+}
+.redirectionTextContainer {
+    display: flex;
+    align-items: center;
+
+text-align: center;
+
+    justify-content: center;
+}
+.redirectionTextContainer p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.sectext{
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: bold;
+    padding-left: 5px;
+}

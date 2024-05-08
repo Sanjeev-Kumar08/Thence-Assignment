@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Dancing+Script:wght@400..700&display=swap');
+.stories{
+    font-family: "Dancing Script", cursive;
+font-optical-sizing: auto;
+font-size: 36px;
+font-weight: 400;
+color: #2DA950;
+
+}
+.headingMainContainer{
+    max-width: 588px;
+}
+.headingMainContainer h2 {
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 67.2px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    margin-top: 5px;
+}

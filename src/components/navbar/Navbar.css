@@ -1,0 +1,24 @@
+.subContainer{
+    margin: 24px 24px 0px 24px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+
+}
+.cancelButton{
+    width: 50px;
+height: 50px;
+border: 1px solid #cacaca;
+background-color:white;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.cancelButton:hover{
+    background-color: #EAEAEA;
+}
+.cancelButton img{
+    height: 25px;
+    width: 25px;
+}
